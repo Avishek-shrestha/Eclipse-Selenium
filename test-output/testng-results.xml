@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-01T14:46:46 NPT" name="Default suite" finished-at="2024-07-01T14:48:07 NPT" duration-ms="81563">
+    <groups>
+    </groups>
+    <test started-at="2024-07-01T14:46:46 NPT" name="Default test" finished-at="2024-07-01T14:48:07 NPT" duration-ms="81563">
+      <class name="z_Bamboohr.Hiring_module">
+        <test-method is-config="true" signature="OpenChromebrowser()[pri:0, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:46:37 NPT" name="OpenChromebrowser" finished-at="2024-07-01T14:46:46 NPT" duration-ms="8689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenChromebrowser -->
+        <test-method signature="Past_date_req()[pri:1, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:46:46 NPT" name="Past_date_req" finished-at="2024-07-01T14:46:53 NPT" duration-ms="7106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Past_date_req -->
+        <test-method signature="Timeoff()[pri:2, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:46:53 NPT" name="Timeoff" finished-at="2024-07-01T14:47:00 NPT" duration-ms="6486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Timeoff -->
+        <test-method signature="edit_leave_req()[pri:3, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:00 NPT" name="edit_leave_req" finished-at="2024-07-01T14:47:06 NPT" duration-ms="6780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_leave_req -->
+        <test-method signature="missing_mandatory_field()[pri:4, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:06 NPT" name="missing_mandatory_field" finished-at="2024-07-01T14:47:13 NPT" duration-ms="6728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- missing_mandatory_field -->
+        <test-method signature="Add_newreport()[pri:5, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:13 NPT" name="Add_newreport" finished-at="2024-07-01T14:47:19 NPT" duration-ms="6374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_newreport -->
+        <test-method signature="Delete_Report()[pri:6, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:19 NPT" name="Delete_Report" finished-at="2024-07-01T14:47:24 NPT" duration-ms="4523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_Report -->
+        <test-method signature="missinginfo()[pri:7, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:24 NPT" name="missinginfo" finished-at="2024-07-01T14:47:26 NPT" duration-ms="2252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- missinginfo -->
+        <test-method signature="Contains_onlyreportname()[pri:8, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:26 NPT" name="Contains_onlyreportname" finished-at="2024-07-01T14:47:31 NPT" duration-ms="4891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contains_onlyreportname -->
+        <test-method signature="Create_newfolder()[pri:9, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:31 NPT" name="Create_newfolder" finished-at="2024-07-01T14:47:35 NPT" duration-ms="3847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_newfolder -->
+        <test-method signature="Add_jobopening()[pri:10, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:35 NPT" name="Add_jobopening" finished-at="2024-07-01T14:47:42 NPT" duration-ms="6847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_jobopening -->
+        <test-method signature="Fill_Mandatoryfield_Only()[pri:11, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:42 NPT" name="Fill_Mandatoryfield_Only" finished-at="2024-07-01T14:47:48 NPT" duration-ms="5747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fill_Mandatoryfield_Only -->
+        <test-method signature="No_Mandatory_info()[pri:12, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:48 NPT" name="No_Mandatory_info" finished-at="2024-07-01T14:47:53 NPT" duration-ms="5818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- No_Mandatory_info -->
+        <test-method signature="Check_uncheck_application_question()[pri:13, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:47:53 NPT" name="Check_uncheck_application_question" finished-at="2024-07-01T14:48:01 NPT" duration-ms="7287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_uncheck_application_question -->
+        <test-method signature="Save_finishlater_missing_mandatoryfield()[pri:14, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:48:01 NPT" name="Save_finishlater_missing_mandatoryfield" finished-at="2024-07-01T14:48:07 NPT" duration-ms="6807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Save_finishlater_missing_mandatoryfield -->
+        <test-method is-config="true" signature="CloseChrombrowser()[pri:0, instance:z_Bamboohr.Hiring_module@1a482e36]" started-at="2024-07-01T14:48:08 NPT" name="CloseChrombrowser" finished-at="2024-07-01T14:48:28 NPT" duration-ms="20233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseChrombrowser -->
+      </class> <!-- z_Bamboohr.Hiring_module -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
